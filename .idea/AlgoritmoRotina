@@ -1,0 +1,51 @@
+// Autor: GuilhermeDiasV
+// Data: 07/07/2024
+// Descrição: Rotina de um estudante com metas altas (Fui bem sincero ta ? hahahaha) ;)
+
+ROTINA {
+1- Acordar
+2- Olhar o celular (notifições)
+3- SE tiver notificação importante 
+    3.1- Responder as notificações
+4- SE NÃO tem notificação importante 
+    4.1- Seguir adiante ...
+5- levantar da cama
+6- Ir ao banheiro (Escovar os dentes)
+7- ir a cozinha
+8- SE estiver com muita fome 
+    8.1- Fazer um pão para comer
+    8.2- Preparar um café
+    8.3- Tomar o café
+9- SE NÃO estiver com muita fome 
+    9.1- Preparar um café
+    9.2- Tomar o café
+10- Ligar o PC
+11- Logar na EBAC
+12- Fazer um módulo (pelo menos) do curso Desenvolvedor Full-Stack Python
+13- Fazer um módulo (pelo menos) do curso Desenvolvedor Back-End Java
+14- Praticar um pouco o conteúdo ensinado
+15- SE eu conseguir fazer
+    15.1- Ficar feliz e praticar mais
+16- SE NÃO conseguir fazer
+    16.1- Se estressar até jogar o pc pela janela do AP (T-T)
+17- Olhar a comunidade Slack
+18- Olhar nas redes sociais (Instagram, LinkedIn, Youtube)
+19- Almoçar
+20- Checar e-mail
+21 - Se tiver e-mail sem responder
+    21.1- Responder e-mail
+22- SE NÃO tiver e-mail importante
+    22.1- Seguir adinate ...
+23- Procurar vaga de emprego
+24- SE obter resposta positiva
+    24.1- Ficar feliz
+25- SE NÃO obter resposta positiva
+    25.1- Ficar triste
+    25.2- Estudar dobrado no dia seguinte
+26- Se preparar para faculdade
+27- Tomar banho
+28- Se arrumar
+29- Pegar monotrilho
+30- Entrar na faculdade
+31- (...)
+}
